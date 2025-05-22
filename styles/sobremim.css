@@ -1,0 +1,35 @@
+body {
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+.cabecalho {
+    padding: 2% 0% 0% 20%;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 20px;
+}
+
+.cabecalho__menu__links {
+    font-family: 'montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #3198af;
+    text-decoration: none;
+}
+
+.Sobre__mim {
+    padding: 4% 20%;
+
+}
+
+.Sobre__mim__titulo {
+    padding: 2%;
+    font-size: 24px;
+    border: 2px solid #22D4FD;
+    border-radius: 8px;
+    font-family: 'montserrat', sans-serif;
+}
